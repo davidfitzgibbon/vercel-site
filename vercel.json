@@ -1,0 +1,8 @@
+{
+	"rewrites": [
+		{
+			"source": "*",
+			"destination": "https://netlify-site-example.netlify.app/"
+		}
+	]
+}
