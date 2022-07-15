@@ -1,6 +1,10 @@
 {
 	"rewrites": [
 		{
+			"source": "/",
+			"destination": "https://netlify-site-example.netlify.app/"
+		},
+		{
 			"source": "*",
 			"destination": "https://netlify-site-example.netlify.app/"
 		},
